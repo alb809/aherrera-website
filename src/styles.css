@@ -19,3 +19,18 @@ main > h1 {
   text-align: center;
   font-size: 3.5em;
 }
+
+main1 > h1 {
+  text-align: center;
+  font-size: 3.5em;
+}
+
+main2 > h1 {
+  text-align: center;
+  font-size: 3.5em;
+}
+
+body > h1 {
+  text-align: center;
+  font-size: 3.5em;
+}
